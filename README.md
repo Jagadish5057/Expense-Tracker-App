@@ -140,6 +140,7 @@ To learn more about React Native, take a look at the following resources:
 >>>>>>> 5665e52 (Initial commit)
 =======
 For additional help, refer to the React Native Troubleshooting Guide: https://reactnative.dev/docs/troubleshooting.
+
 Learn More
 - React Native Documentation: https://reactnative.dev/docs/getting-started
 - TypeScript in React Native: https://reactnative.dev/docs/typescript
